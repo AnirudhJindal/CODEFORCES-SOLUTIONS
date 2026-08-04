@@ -6,28 +6,82 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 4 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [dfs and similar](#dfs-and-similar) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (4)
+- [dp](#dp) (1)
 - [dsu](#dsu) (1)
+- [graphs](#graphs) (2)
+- [greedy](#greedy) (1)
+- [shortest paths](#shortest-paths) (2)
+- [trees](#trees) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
 
 ### dfs and similar
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 277A | [Learning Languages](https://codeforces.com/contest/277/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/277/A%20-%20Learning%20Languages/solution.cpp) |
+| 510B | [Fox And Two Dots](https://codeforces.com/contest/510/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/510/B%20-%20Fox%20And%20Two%20Dots/solution.cpp) |
+| 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 
 ### dsu
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 277A | [Learning Languages](https://codeforces.com/contest/277/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/277/A%20-%20Learning%20Languages/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
+| 1106D | [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/1106/D%20-%20Lunar%20New%20Year%20and%20a%20Wander/solution.cpp) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
 
 ---
 
