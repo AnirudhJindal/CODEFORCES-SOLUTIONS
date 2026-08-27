@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 9 |
+| 5 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (4)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [dsu](#dsu) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (1)
@@ -23,6 +24,12 @@
 - [trees](#trees) (1)
 
 ---
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1036C | [Classy Numbers](https://codeforces.com/contest/1036/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/1036/C%20-%20Classy%20Numbers/solution.cpp) |
 
 ### constructive algorithms
 
@@ -50,6 +57,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 796D | [Police Stations](https://codeforces.com/contest/796/problem/D) | 2100 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/796/D%20-%20Police%20Stations/solution.cpp) |
+| 1036C | [Classy Numbers](https://codeforces.com/contest/1036/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/AnirudhJindal/CODEFORCES-SOLUTIONS/blob/HEAD/1036/C%20-%20Classy%20Numbers/solution.cpp) |
 
 ### dsu
 
